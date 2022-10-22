@@ -3,7 +3,7 @@ command_not_found_handle() {
 }
 PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[OnlineHacking]\e[0;31m───[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[0;35m\W\[\e[31m\]]────►\e[1;92m'
 clear
-mpv /$HOME/Welcome-Voice/termux.mp3
+mpv /$HOME/Voice-Welcome/termux.mp3
 clear
 echo -e "Copyright ® by \e[5mpoisk-ls"
 echo "----------------------------" | lolcat
@@ -28,18 +28,21 @@ echo "    MP         ~YMMMba._ YOOOOPVVVVVYOOOOP  _,adMMMMP~        YM "
 echo "    YMb           ~YMMMM\ OOOOI•••••IOOOOO /MMMMP~           dMP "
 echo "      Mb.            YMMMb OOOI,,,,,IOOOO dMMMP            ,dM  "
 echo "       ••                   OObNNNNNdOO                    •• "
-echo "                              ~OOOOO~ "
-echo "                             " poisk-ls"
-echo "                                             "
+echo "                              ~OOOOO~    SUMAN "
+echo "              _ "
+echo "             / \ ._  | o ._   _    |_|  _.  _ |  o ._   _ "
+echo "             \_/ | | | | | | (/_   | | (_| (_ |< | | | (_| "
+echo "                                                        _| "
 echo -e "\e[1;92m"
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■□■⊣"
 echo ""
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mCodename \e[1;91m =  \e[1;97mpoiskls"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mCodename   \e[1;91m =  \e[1;97mpoisk-ls"
 echo "" 
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mGithub    \e[1;91m =  \e[1;97m@poisk-ls"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mGithub     \e[1;91m =  \e[1;97m@poisk-ls"
 echo ""
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mTelegram  \e[1;91m =  \e[1;97m@poisk-ls"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mTelegram   \e[1;91m =  \e[1;97m@poisk-ls"
 echo ""
 echo ''
 date | lolcat
 echo ""
+ 
