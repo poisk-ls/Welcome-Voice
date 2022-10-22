@@ -5,7 +5,7 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[OnlineHacki
 clear
 mpv /$HOME/Welcome-Voice/termux.mp3
 clear
-echo -e "Copyright ® By \e[5mpoisk-ls"
+echo -e "Copyright ® by \e[5mpoisk-ls"
 echo "----------------------------" | lolcat
 echo -e "\e[1;92m "
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■⊣"
@@ -30,7 +30,7 @@ echo "      Mb.            YMMMb OOOI,,,,,IOOOO dMMMP            ,dM  "
 echo "       ••                   OObNNNNNdOO                    •• "
 echo "                              ~OOOOO~ "
 echo "                             " poisk-ls"
-echo "                                             
+echo "                                             "
 echo -e "\e[1;92m"
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■□■⊣"
 echo ""
