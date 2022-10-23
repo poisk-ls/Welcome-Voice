@@ -1,5 +1,4 @@
 # Welcome-Voice
-# Copyright ® by owner https://github.com/OnlineHacKing
 ### ☣️ Installation and Usage Guide
 ```
 $ apt-get update -y
