@@ -1,4 +1,4 @@
-# Welcome-Voice
+### Welcome-Voice
 ### ☣️ Installation and Usage Guide
 ```
 $ apt-get update -y
@@ -25,5 +25,5 @@ $ sh install.sh
 
 ### Update Tool ###
 ```
-$ rm -rf 'Welcome-Voice' && pkg install mpv -y && git clone https://github.com/poisk-ls/Welcome-Voice.git && cd Welcome-Voice && chmod +x * && sh install.sh && exit
+### $ rm -rf 'Welcome-Voice' && pkg install mpv -y && git clone https://github.com/poisk-ls/Welcome-Voice.git && cd Welcome-Voice && chmod +x * && sh install.sh && exit
 ```
