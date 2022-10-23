@@ -5,8 +5,8 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[OnlineHacki
 clear
 mpv /$HOME/Welcome-Voice/termux.mp3
 clear
-echo -e "Copyright ® by \e[5mi love you ding <3"
-echo "--------------------------------------" | lolcat
+echo -e "palangga kho \e[5mi love you as alwys ding <3"
+echo "------------------------------------------------" | lolcat
 echo -e "\e[1;92m "
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■⊣"
 echo -e "\e[1;92m"
@@ -36,7 +36,7 @@ echo "                                                        _| "
 echo -e "\e[1;92m"
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■□■⊣"
 echo ""
-echo -e "\e[1;91m             [\e[1;96m*\e[1;91m] \e[1;97mCodename        \e[1;91m =  \e[1;97mpoisk-ls"
+echo -e "\e[1;91m             [\e[1;96m*\e[1;91m] \e[1;97mCodename         \e[1;91m =  \e[1;97mpoisk-ls"
 echo "" 
 echo -e "\e[1;91m             [\e[1;96m*\e[1;91m] \e[1;97mGithub           \e[1;91m =  \e[1;97mpoisk-ls"
 echo ""
