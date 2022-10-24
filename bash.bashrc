@@ -3,9 +3,9 @@ command_not_found_handle() {
 }
 PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[OnlineHacking]\e[0;31m───[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[0;35m\W\[\e[31m\]]────►\e[1;92m'
 clear
-mpv /$HOME/Welcome-Voice/termux.mp3
+mpv /$HOME/Welcome-Voice/poisk-ls.mp3
 clear
-echo -e "palangga kho \e[5mi love you as alwys ding <3"
+echo -e "Welcome Pro \e[5mTo the Terminal"
 echo "------------------------------------------------" | lolcat
 echo -e "\e[1;92m "
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■⊣"
@@ -14,16 +14,16 @@ echo "       _                      _______                      _ "
 echo "    _dMMMb._              .adOOOOOOOOOba.              _,dMMMb_ "
 echo "   dP   ~YMMb            dOOOOOOOOOOOOOOOb            aMMP~   Yb "
 echo "   V      ~ Mb          dOOOOOOOOOOOOOOOOOb          dM ~      V "
-echo "             Mb.       dOOOOOOOOOOOOOOOOOOOb       ,dM "
+echo "             Mb.       dOOOOOpoisk-lsOOOOOOb       ,dM "
 echo "              YMb._   |OOOOOOOOOOOOOOOOOOOOO|   _,dMP  "
-echo "        __      YMMM| OP ~ YOOOOOOOOOOOP ~ YO |MMMP     __ "
+echo "        __      YMMM| OP ~ YOOOOpro0OOOOP ~ YO |MMMP     __ "
 echo "      ,dMMMb.     ~~  OO      YOOOOOP      OO ~~     ,dMMMb.\ "
 echo "   _,dP~   YMba_      OOb       OOO       dOO      _aMMP   ~Yb.\_ "
 echo "  <MMP       ~YMMa_   YOOo   @  OOO  @   oOOP   _adMP~        YMM> "
 echo "                YMMMM\ OOOo     OOO     oOOO /MMMMP  "
 echo "       ,aa.      ~YMMb  OOOb._,dOOOb._,dOOO dMMP~        ,aa. "
 echo "     ,dMYYMba._          OOOOOOOOOOOOOOOOO           _,adMYYMb. "
-echo "    ,MP     YMMba._      OOOOOOOOOOOOOOOOO       _,adMMP     YM. "
+echo "    ,MP     YMMba._      OOOOOOOjadeOOOOOOO       _,adMMP     YM. "
 echo "    MP         ~YMMMba._ YOOOOPVVVVVYOOOOP  _,adMMMMP~        YM "
 echo "    YMb           ~YMMMM\ OOOOI•••••IOOOOO /MMMMP~           dMP "
 echo "      Mb.            YMMMb OOOI,,,,,IOOOO dMMMP            ,dM  "
