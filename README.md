@@ -12,7 +12,7 @@
 - ls
 - sh install.sh
 
-### Now Type exit & restart Termux enjoy....!!
+### Now Type exit & restart termux and boom!!
 
 ### Update Tool
 - rm -rf 'Welcome-Voice' && pkg install mpv -y && git clone https://github.com/poisk-ls/Welcome-Voice.git && cd Welcome-Voice && chmod +x * && sh install.sh && exit
