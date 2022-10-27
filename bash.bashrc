@@ -35,10 +35,10 @@ echo "                                            .'           "
 echo "                                             .           "
 echo "                                                         "
 echo "                                                         "
-echo "                    ___  ___    ___ | /          ___ "   | lolcat
-echo "                   |__| |  | | |__  |/ __  |    |__  "   | lolcat
-echo "                   |    |__| | ___| |\     |__  ___| "   | lolcat
-echo "                                    | \              "   | lolcat
+echo "               ___  ___    ___ | /    |     ___ "   | lolcat
+echo "              |__| |  | | |__  |/ __  |    |__  "   | lolcat
+echo "              |    |__| | ___| |\     |__  ___| "   | lolcat
+echo "                               | \              "   | lolcat
 echo -e "\e[1;92m" | lolcat
 echo "   ✰✯✰✯✰✯✰✰✰✰✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✯✰✯✰✯✰☆✰☆✰✯" | lolcat -a -F
 echo ""
