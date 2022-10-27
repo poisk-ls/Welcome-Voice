@@ -42,7 +42,7 @@ echo "                                    | \              "   | lolcat
 echo -e "\e[1;92m" | lolcat
 echo "   ✰✯✰✯✰✯✰✰✰✰✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✯✰✯✰✯✰☆✰☆✰✯" | lolcat -a -F
 echo ""
-echo -e "\e[1;91m             [\e[1;96m☕︎\e[1;91m] \e[1;97mTwitter         \e[1;91m ─► \e[1;97m•poiskLs•"   | lolcat -a -F
+echo -e "\e[1;91m             [\e[1;96m☕︎\e[1;91m] \e[1;97mTwitter          \e[1;91m ─► \e[1;97m•poiskLs•"  | lolcat -a -F
 echo ""
 echo -e "\e[1;91m             [\e[1;96m☕︎\e[1;91m] \e[1;97mGithub           \e[1;91m ─► \e[1;97m•poisk-ls•" | lolcat -a -F
 echo ""
