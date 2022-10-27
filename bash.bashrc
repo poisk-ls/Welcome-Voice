@@ -35,14 +35,14 @@ echo "                                            .'           "
 echo "                                             .           "
 echo "                                                         "
 echo "                                                         "
-echo "               ___  ___    ___ | /    |     ___ "   | lolcat
-echo "              |__| |  | | |__  |/ __  |    |__  "   | lolcat
-echo "              |    |__| | ___| |\     |__  ___| "   | lolcat
-echo "                               | \              "   | lolcat
+echo "             ___  ___    ___ | /    |     ___ "   | lolcat
+echo "            |__| |  | | |__  |/ __  |    |__  "   | lolcat
+echo "            |    |__| | ___| |\     |__  ___| "   | lolcat
+echo "                             | \              "   | lolcat
 echo -e "\e[1;92m" | lolcat
 echo "✰✯✰✯✰✯✰✯✰✯✰✰✰✰✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✯✰✯✰✯✰☆✰☆✰✯" | lolcat -a -F
 echo ""
-echo -e "\e[1;91m             [\e[1;96m☕︎\e[1;91m] \e[1;97mTwitter          \e[1;91m ─► \e[1;97m•poiskLs•"  | lolcat -a -F
+echo -e "\e[1;91m             [\e[1;96m☕︎\e[1;91m] \e[1;97mTelegram         \e[1;91m ─► \e[1;97m•poiskLs•"  | lolcat -a -F
 echo ""
 echo -e "\e[1;91m             [\e[1;96m☕︎\e[1;91m] \e[1;97mGithub           \e[1;91m ─► \e[1;97m•poisk-ls•" | lolcat -a -F
 echo ""
