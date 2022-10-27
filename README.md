@@ -1,6 +1,6 @@
 ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&size=30&lines=☣️+Welcome-Voice+☣️)
-### ☣️ Installation and Usage Guide
 
+### Installation and Usage Guide
 - apt-get update -y
 - apt-get upgrade -y
 - pkg install mpv -y
