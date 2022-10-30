@@ -48,7 +48,12 @@ echo -e "\e[1;91m             [\e[1;96m☕︎\e[1;91m] \e[1;97mGithub           
 echo ""
 echo -e "\e[1;91m             [\e[1;96m☕︎\e[1;91m] \e[1;97mMySpecialferson  \e[1;91m ─► \e[1;97m•Glyza•"    | lolcat -a -F
 echo ""
-echo ''
+echo ""
 date | lolcat
 echo ""
-
+echo "✰✯✰✯✰✯✰✯✰✯✰✰✰✰✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✰✯✯✰✯✰✯✰☆✰☆✰✯" | lolcat -a -F
+echo ""
+neofetch | lolcat
+cmatrix -b -B
+cacafire
+echo ""
