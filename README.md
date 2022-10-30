@@ -19,7 +19,7 @@
 command | how to close the command |
 -- | --|
 cmatrix | ``ctrl + c,z,x``
-libcaca | ``ESC``
+cacafire | ``ESC``
 
 ##
 ### Now Type exit & restart termux and boom!!
