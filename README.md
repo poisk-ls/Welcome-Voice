@@ -4,6 +4,9 @@
 - apt-get update -y
 - apt-get upgrade -y
 - pkg install mpv -y
+- pkg install neofetch -y
+- pkg install cmatrix -y
+- pkg install libcaca -y
 - git clone https://github.com/poisk-ls/Welcome-Voice.git
 - ls
 - cd Welcome-Voice && ls
@@ -12,6 +15,13 @@
 - ls
 - sh install.sh
 
+**Tips:**
+command | how to close the command |
+-- | --|
+cmatrix | ``ctrl + c,z,x``
+libcaca | ``ESC``
+
+##
 ### Now Type exit & restart termux and boom!!
 
 ### Update Tool
