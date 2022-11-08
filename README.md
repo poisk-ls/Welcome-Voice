@@ -18,13 +18,13 @@
 **Tips:**
 command | how to close the command |
 -- | --|
-cmatrix | ``ctrl + c,z,x``
+cmatrix | ``ctrl + c``
 cacafire | ``ESC``
 
 ##
 ### Now Type exit & restart termux and boom!!
 
-### Update Tool
+### To Update Tool
 - rm -rf 'Welcome-Voice' && pkg install mpv -y && git clone https://github.com/poisk-ls/Welcome-Voice.git && cd Welcome-Voice && chmod +x * && sh install.sh && exit
 
 
