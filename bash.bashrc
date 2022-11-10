@@ -56,4 +56,5 @@ echo ""
 neofetch | lolcat
 cmatrix -b -B
 cacafire
+cacademo
 echo ""
