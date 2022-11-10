@@ -14,15 +14,16 @@
 - chmod +x *
 - ls
 - sh install.sh
-
+#
 **Tips:**
 command | how to close the command |
--- | --|
+-- |:--:|
 cmatrix | ``ctrl + c``
 cacafire | ``ESC``
+cacademo | ``ESC``
 
 ##
-### Now Type exit & restart termux and boom!!
+### Now Type exit & restart termux and boooom!!
 
 ### To Update Tool
 - rm -rf 'Welcome-Voice' && pkg install mpv -y && git clone https://github.com/poisk-ls/Welcome-Voice.git && cd Welcome-Voice && chmod +x * && sh install.sh && exit
