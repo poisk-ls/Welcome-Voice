@@ -44,7 +44,7 @@ cacademo | ``ESC``
 >
 >
 >**<p align="left">**
-><a href="https://twitter.com/poisks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poisk_ls" height="30" width="40" /></a>
+><a href="https://twitter.com/poiskls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poisk_ls" height="30" width="40" /></a>
 ><a href="https://github.com/poisk-ls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="poisk-ls" height="30" width="40" /></a>
 ><a href="https://m.me/poiskls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/messenger.svg" alt="poisk-ls" height="30" width="40" /></a>
 <a href="https://www.facebook.com/poiskls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="poisk-ls" height="30" width="40" /></a>
