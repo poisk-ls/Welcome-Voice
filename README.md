@@ -1,6 +1,13 @@
 ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&size=30&center=true&lines=☣️+Welcome-Voice+☣️)
 
-### Installation and Usage Guide
+# Info
+This comprehensive guide will facilitate the customization of your Termux environment by integrating a voice AI assistant, thereby enhancing its functionality and user experience. Additionally, this process will incorporate a visually appealing banner on the home page of your Termux interface, providing a personalized touch to your terminal experience.
+
+The implementation of a voice AI assistant within Termux will enable you to interact with your terminal through vocal commands, streamlining operations and increasing efficiency. The addition of a banner not only serves aesthetic purposes but also conveys important information or inspirational messages each time you access the terminal.
+
+To achieve these customizations, you will need to follow specific procedures that involve installing requisite packages, configuring settings, and scripting commands effectively. By completing these steps, you will transform your Termux into a more user-friendly and visually engaging environment, tailored to your preferences.
+
+# Installation & Usage
 - apt-get update -y
 - apt-get upgrade -y
 - pkg install mpv -y
