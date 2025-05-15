@@ -42,20 +42,15 @@ cacademo | ``ESC``
 >
 >**Get in Touch**
 >
->**Direct inbox:**
-><a href="https://m.me/poiskls" target="_blank"><img src="https://img.shields.io/badge/Messenger-poiskls-red?style=for-the-badge&logo=messenger"></a>
 >
->**<p align="left">My social accout:</p>**
 >**<p align="left">**
 ><a href="https://twitter.com/poisks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poisk_ls" height="30" width="40" /></a>
+><a href="https://github.com/poisk-ls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="poisk-ls" height="30" width="40" /></a>
+><a href="https://m.me/poiskls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/messenger.svg" alt="poisk-ls" height="30" width="40" /></a>
 <a href="https://www.facebook.com/poiskls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="poisk-ls" height="30" width="40" /></a>
-><a href="https://instagram.com/buhayanjade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="buhayanjade" height="30" width="40" /></a>
-><a href="https://discord.gg/jade-posk-ls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jade-posk-ls#1435" height="30" width="40" /></a>
+><a href="https://instagram.com/jadepoiskls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="buhayanjade" height="30" width="40" /></a>
+><a href="https://discord.com/users/1115921763348525087" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jade-posk-ls#1435" height="30" width="40" /></a>
 ></p>
-><a href="https://github.com/poisk-ls"> <img src="https://img.shields.io/badge/Github-ff0000?style=for-the-badge&logo=github&logoColor=00ff00" /></a>
->
-><a href="https://t.me/poisLs"><img src="https://img.shields.io/badge/telegram-poiskLs-blue.svg">
->
 ><a href="https://www.buymeacoffee.com/bsit3sbuhaY" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
 
 
