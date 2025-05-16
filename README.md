@@ -51,7 +51,7 @@ cacademo | ``ESC``
 ><a href="https://instagram.com/jadepoiskls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="buhayanjade" height="30" width="40" /></a>
 ><a href="https://discord.com/users/1115921763348525087" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jade-posk-ls#1435" height="30" width="40" /></a>
 ></p>
-><a href="https://www.buymeacoffee.com/bsit3sbuhaY" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+><a href="https://www.buymeacoffee.com/jadepoiskls" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
 
 
 ####  ___________________________________
