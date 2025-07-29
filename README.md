@@ -38,7 +38,7 @@ cacademo | ``ESC``
 
 
 **[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7D628&center=true&width=435&lines=...enjoy!!)](https://git.io/typing-svg)**
-#### ____________________________________
+#
 >
 >**Get in Touch**
 >
@@ -52,8 +52,6 @@ cacademo | ``ESC``
 ><a href="https://discord.com/users/1115921763348525087" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jade-posk-ls#1435" height="30" width="40" /></a>
 ></p>
 ><a href="https://www.buymeacoffee.com/jadepoiskls" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
-
-
-####  ___________________________________
+#
 ![Alt text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/120407.gif)
-#### ____________________________________
+#
